@@ -1,2 +1,20 @@
 ## ACME PORTAL COMPANY - TECHNICAL DOCUMENTATION
-![deployment diagram](./deployments.png)
+
+### System Architecture Diagram
+
+![deployment diagram](./deployments/deployments.png)
+
+### ***FRONTEND*** (deployment)
+
+> Go, HTMX, Tailwind CSS
+
+### ***WATCHTOWER*** (deployment)
+
+> Spring Boot
+
+### ***FOOTBALL*** (deployment)
+
+> Spring Boot
+
+### ***FOOTBALL DATA*** (cronjob)
+> Spring Boot
