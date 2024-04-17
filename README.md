@@ -6,15 +6,16 @@
 
 ### ***FRONTEND*** (deployment)
 
-> Go, HTMX, Tailwind CSS
+Go, HTMX, Tailwind CSS
 
 ### ***WATCHTOWER*** (deployment)
 
-> Spring Boot
+Spring Boot
 
 ### ***FOOTBALL*** (deployment)
 
-> Spring Boot
+Spring Boot
 
 ### ***FOOTBALL DATA*** (cronjob)
-> Spring Boot
+
+Spring Boot
