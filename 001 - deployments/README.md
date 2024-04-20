@@ -6,10 +6,15 @@
     <img src="deployments.png"> 
     <img src="legend.png"> 
 </div>
+
+<br/>
 <br/>
 
 ---
+
 ---
+<br/>
+
 ### ***FRONTEND*** (deployment)
 ```
 Go, LabStack Echo, HTMX, Tailwind CSS
