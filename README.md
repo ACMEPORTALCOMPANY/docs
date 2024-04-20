@@ -25,8 +25,9 @@ A backend application responsible for all tasks related to user creation and aut
 ```
 Java, Spring Boot
 
-A backend application responsible for retrieval of football data from user-created queries, retrieving
- + persisting queries saved by the user, and generation of data file exports from query results
+A backend application responsible for retrieval of football data from user-created queries, 
+retrieving + persisting queries saved by the user, and generation of data file exports
+ from query results
 ```
 ### ***FOOTBALL DATA*** (cronjob)
 ```
