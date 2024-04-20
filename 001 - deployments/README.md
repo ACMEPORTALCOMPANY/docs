@@ -15,20 +15,20 @@
 ---
 <br/>
 
-### FRONTEND  - ***deployment***
+### FRONTEND  - ***deployment, service***
 ```
 Go, LabStack Echo, HTMX, Tailwind CSS
 
 User interface for the ACME Portal Company web application
 ```
-### PANOPTICON - ***deployment***
+### PANOPTICON - ***deployment, service***
 ```
 Java, Spring Boot
 
 Backend application responsible for all tasks related to user creation and 
 authentication
 ```
-### FOOTBALL - ***deployment***
+### FOOTBALL - ***deployment, service***
 ```
 Java, Spring Boot
 
