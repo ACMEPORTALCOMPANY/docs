@@ -1,4 +1,4 @@
-### ***ACME PORTAL COMPANY - TECHNICAL DOCUMENT 001***
+### ACME PORTAL COMPANY - TECHNICAL DOCUMENT 001
 
 #### ***Deployments***
 
@@ -15,20 +15,20 @@
 ---
 <br/>
 
-### ***FRONTEND*** (deployment)
+### FRONTEND  - ***deployment***
 ```
 Go, LabStack Echo, HTMX, Tailwind CSS
 
 User interface for the ACME Portal Company web application
 ```
-### ***PANOPTICON*** (deployment)
+### PANOPTICON - ***deployment***
 ```
 Java, Spring Boot
 
 Backend application responsible for all tasks related to user creation and 
 authentication
 ```
-### ***FOOTBALL*** (deployment)
+### FOOTBALL - ***deployment***
 ```
 Java, Spring Boot
 
@@ -36,7 +36,7 @@ Backend application responsible for retrieval of football data from user-created
 queries, retrieving + persisting queries saved by the user, and generation of data
 file exports from query results
 ```
-### ***FOOTBALL DATA*** (cronjob)
+### FOOTBALL DATA - ***cronjob***
 ```
 Go
 
