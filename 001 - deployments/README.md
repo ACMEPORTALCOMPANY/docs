@@ -7,8 +7,6 @@
     <img src="legend.png"> 
 </div>
 <br/>
-<br/>
-
 
 ---
 ---
