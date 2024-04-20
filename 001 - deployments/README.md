@@ -19,7 +19,7 @@
 ```
 Go, LabStack Echo, HTMX, Tailwind CSS
 
-User interface for the ACME Portal Company web application. Uses LabStack echo as a
+User interface for the ACME Portal Company web application. Uses LabStack Echo as a
 web server and router.
 ```
 ### ***PANOPTICON*** (deployment)
