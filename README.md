@@ -10,7 +10,7 @@
 ```
 Go, LabStack Echo, HTMX, Tailwind CSS
 ```
-### ***WATCHTOWER*** (deployment)
+### ***PANOPTICON*** (deployment)
 ```
 Java, Spring Boot
 ```
