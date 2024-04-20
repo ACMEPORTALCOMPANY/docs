@@ -1,21 +1,24 @@
 ## ACME PORTAL COMPANY - TECHNICAL DOCUMENTATION
-
-### System Architecture Diagram
-
 ![deployment diagram](./deployments/deployments.png)
+---
+|           ***PLATFORM***          | ***CONTAINER REGISTRY*** | ***MAVEN REGISTRY*** |  ***Go Registry***  |
+| --------------------------------- | ------------------------ | -------------------- | ------------------- |
+| Kubernetes (Hosting/Provider TBD) |        Docker Hub        |   GitHub Packages    |   GitHub Packages   |
+---
 
 ### ***FRONTEND*** (deployment)
-
-Go, HTMX, Tailwind CSS
-
+```
+Go, LabStack Echo, HTMX, Tailwind CSS
+```
 ### ***WATCHTOWER*** (deployment)
-
-Spring Boot
-
+```
+Java, Spring Boot
+```
 ### ***FOOTBALL*** (deployment)
-
-Spring Boot
-
+```
+Java, Spring Boot
+```
 ### ***FOOTBALL DATA*** (cronjob)
-
-Spring Boot
+```
+Go
+```
