@@ -1,5 +1,13 @@
-## ACME PORTAL COMPANY - TECHNICAL DOCUMENTATION
-![deployment diagram](./deployments/deployments.png)
+### ***ACME PORTAL COMPANY - TECHNICAL DOCUMENTATION***
+---
+
+<div align="center">
+    <img src="deployments/deployments.png"> 
+    <img src="deployments/legend.png"> 
+</div>
+<br/>
+<br/>
+
 
 ---
 
