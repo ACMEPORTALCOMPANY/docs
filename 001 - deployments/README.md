@@ -21,7 +21,7 @@ Go, LabStack Echo, HTMX, Tailwind CSS
 
 User interface for the ACME Portal Company web application
 ```
-### PANOPTICON - ***deployment, service***
+### ARTHUR - ***deployment, service***
 ```
 Java, Spring Boot
 
